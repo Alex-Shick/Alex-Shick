@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexersion" alt="Alex's GitHub Profile Views"/></p>
 <p><a href="https://docs.google.com/document/d/1gtOO3z7u8nBmbusmpkoid3hYaxvA2OxQNGnf6kOEq1o">Resume</a> - This is my full length resume with most of my information.</p>
 <br>
-[YouTube](https://youtube.com/channel/UCgFpOmyeot1d-t9YT5IdyjQ) - This is my YouTube channel where I occasionally post.
+<p><a href="https://youtube.com/channel/UCgFpOmyeot1d-t9YT5IdyjQ">YouTube</a> - This is my YouTube channel where I occasionally post.</p>
 <br>
 <br>
 <p>&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&count_private=true&theme=prussian"/></a></p>

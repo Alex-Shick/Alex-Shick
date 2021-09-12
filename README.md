@@ -10,3 +10,5 @@
 <p>&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexersion&layout=compact&theme=prussian"/></a></p>
 
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexersion&theme=nord"/></a></p>
+
+[IMG]gen.plancke.io/exp/Alexersion.png[/IMG]

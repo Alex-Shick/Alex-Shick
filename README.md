@@ -31,8 +31,8 @@
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
 ### My Stats
-![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&bg_color=000000&theme=radical)
-![Alexersion's Languages](https://raw.githubusercontent.com/Alexersion/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
+![Alexersion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexersion&layout=compact&theme=cobalt)](https://github.com/alexersion/github-readme-stats)
 
 ### Languages I'm Learning
 ![Typescript](https://img.shields.io/badge/-Typescript-409AF9?style=for-the-badge&logo=typescript&logoColor=white)

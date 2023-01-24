@@ -7,6 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexersion" alt="Alex's GitHub Profile Views"/></p>
 
 ### My Links/Socials
+<p><a href="https://www.alexersion.com">Alexersion's Portfolio</a> - My personal portfolio page with all of my information.</p>
 <p><a href="https://www.discord.gg/fnsdWnWHeT">Discord Server</a> - My Discord server where you can meet my community and view project updates. [Alexersion0001]</p>
 <p><a href="https://www.linkedin.com/in/alexersion/">LinkedIn</a> - My LinkedIn Handle! My work history and general achievements.</p>
 <p><a href="https://www.twitter.com/alexersion">Twitter</a> - My Twitter page! A consistant place where I'd post updates about myself.</p>

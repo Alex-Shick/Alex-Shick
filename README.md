@@ -38,7 +38,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-409AF9?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-409AF9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-409AF9?style=for-the-badge&logo=go&logoColor=white)
-Other Technologies: NextJS, CloudFlare backend systems, data science, Machine Learning, Python Scikit, FeatherJS, & Java Springboot.
+<br>Other Technologies: NextJS, CloudFlare backend systems, data science, Machine Learning, Python Scikit, FeatherJS, & Java Springboot.
 
 ### My Achievements
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexersion&theme=nord"/></a></p>

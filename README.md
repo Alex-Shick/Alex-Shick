@@ -9,9 +9,9 @@
 ### My Links/Socials
 <p><a href="https://www.discord.gg/fnsdWnWHeT">Discord Server</a> - My Discord server where you can meet my community and view project updates. [Alexersion0001]</p>
 <p><a href="https://www.linkedin.com/in/alexersion/">LinkedIn</a> - My LinkedIn Handle! My work history and general achievements.</p>
+<p><a href="https://www.twitter.com/alexersion">Twitter</a> - My Twitter page! A consistant place where I'd post updates about myself.</p>
 <p><a href="https://www.youtube.com/channel/UC3_OCeMJo8T-hp-xFfyPjYQ/">YouTube</a> - This is my YouTube channel where I occasionally post.</p>
 <p><a href="https:/www.tiktok.com/alexersion">TikTok</a> - This is my TikTok page where I sometimes post short clips.</p>
-<p><a href="https://www.twitter.com/alexersion">Twitter</a> - My Twitter page! A consistant place where I'd post updates about myself.</p>
 
 ### Languages That I'm Familiar With
 ![HTML](https://img.shields.io/badge/-HTML-409AF9?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +38,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-409AF9?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-409AF9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-409AF9?style=for-the-badge&logo=go&logoColor=white)
+Other Technologies: NextJS, CloudFlare backend systems, data science, Machine Learning, Python Scikit, FeatherJS, & Java Springboot.
 
 ### My Achievements
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexersion&theme=nord"/></a></p>

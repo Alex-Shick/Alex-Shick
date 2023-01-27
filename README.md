@@ -13,6 +13,7 @@
 <p><a href="https://www.twitter.com/alexersion">Twitter</a> - My Twitter page! A consistant place where I'd post updates about myself.</p>
 <p><a href="https://www.youtube.com/channel/UC3_OCeMJo8T-hp-xFfyPjYQ/">YouTube</a> - This is my YouTube channel where I occasionally post.</p>
 <p><a href="https:/www.tiktok.com/alexersion">TikTok</a> - This is my TikTok page where I sometimes post short clips.</p>
+<p><a href="https://open.spotify.com/user/sn6prmcgunrb8yixgpg6c3zfr">Spotify</a> - A homepage for all of my music playlists and favorite artists.</p>
 
 ### Languages That I'm Familiar With
 ![HTML](https://img.shields.io/badge/-HTML-409AF9?style=for-the-badge&logo=html5&logoColor=white)

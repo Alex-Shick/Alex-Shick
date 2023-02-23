@@ -36,7 +36,7 @@
 
 ## My Stats
 ![Alexersion's GitHub Stats](https://raw.githubusercontent.com/Alexersion/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Alexersion's GitHub Stats](https://raw.githubusercontent.com/Alexersion/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Alexersion's GitHub Stats](https://raw.githubusercontent.com/Alexersion/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
 
 ## Languages I'm Learning

@@ -35,8 +35,8 @@
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
 ## My Stats
-![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
 ![GitHub Metrics](https://metrics.lecoq.io/Alexersion)  
+![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
 ![GitHub Streak Statistics](https://streak-stats.demolab.com/?user=Alexersion)  
 
 ## Languages I'm Learning

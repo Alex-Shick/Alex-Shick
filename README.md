@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, my name is Alex or Alexersion! (He/him) </h1>
 <h3 align="center"> I'm an aspiring junior developer always open to learn new things. Feel free to contact me at alexersion@gmail.com.</h3>
-![Test.](/banner.png)
+![](images/banner.png)
 <p align="center">Meet Alex, a driven and self-motivated corporate entrepreneur with over 5 years of experience in management, administration, development, marketing, media, sales, and the arts. With a keen ability to problem-solve and think strategically, Alex has successfully overseen a diverse range of projects. Committed to quality and efficiency, he is known for his professionalism, cost-effectiveness, and ability to lead teams and maximize performance. Respectful and approachable, Alex is always willing to listen and help and welcomes any inquiries or suggestions. Connect with Alex today and discover how his skills and experience can benefit your business.</p>
 
 <p align="center">Check out my website for more details, projects, stores, and my portfolio!</p>

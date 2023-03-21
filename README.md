@@ -39,8 +39,6 @@
 ## My Stats
 ![GitHub Metrics](https://metrics.lecoq.io/Alexersion)  
 ![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexersion&theme=cobalt)
-![GitHub Streak Statistics](https://streak-stats.demolab.com/?user=Alexersion)
 
 ## Languages I'm Learning
 ![Typescript](https://img.shields.io/badge/-Typescript-409AF9?style=for-the-badge&logo=typescript&logoColor=white)

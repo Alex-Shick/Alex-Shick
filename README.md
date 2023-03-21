@@ -8,13 +8,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexersion" alt="Alex's GitHub Profile Views"/></p>
 
 ## My Links/Socials
-<p><a href="https://www.alexersion.com">Alexersion's Portfolio</a> - My personal portfolio page with all of my information.</p>
-<p><a href="https://www.discord.gg/fnsdWnWHeT">Discord Server</a> - My Discord server where you can meet my community and view project updates. [Alexersion0001]</p>
-<p><a href="https://www.linkedin.com/in/alexersion/">LinkedIn</a> - My LinkedIn Handle! My work history and general achievements.</p>
-<p><a href="https://www.twitter.com/alexersion">Twitter</a> - My Twitter page! A consistant place where I'd post updates about myself.</p>
-<p><a href="https://www.youtube.com/channel/UC3_OCeMJo8T-hp-xFfyPjYQ/">YouTube</a> - This is my YouTube channel where I occasionally post.</p>
-<p><a href="https:/www.tiktok.com/alexersion">TikTok</a> - This is my TikTok page where I sometimes post short clips.</p>
-<p><a href="https://open.spotify.com/user/sn6prmcgunrb8yixgpg6c3zfr">Spotify</a> - A homepage for all of my music playlists and favorite artists.</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alexersion.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alexersion)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexersion/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alexander.shick/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alexersion)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/alexersion)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](business@alexersion.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](alexersion)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/fnsdWnWHeT)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/sn6prmcgunrb8yixgpg6c3zfr)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg' alt='imdb' height='40'>](https://www.imdb.com/user/ur150460082/?ref_=nv_usr_prof_2)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yelp.svg' alt='yelp' height='40'>](https://www.yelp.com/user_details?userid=p1YrGE50nCoE73reiqNvMg)
 
 ## Languages That I'm Familiar With
 ![Git](https://img.shields.io/badge/-Git-409AF9?style=for-the-badge&logo=git&logoColor=white)

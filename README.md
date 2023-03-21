@@ -47,7 +47,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-409AF9?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-409AF9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-409AF9?style=for-the-badge&logo=go&logoColor=white)
-
 <br>Other Technologies: NextJS, CloudFlare backend systems, data science, Machine Learning, Python Scikit, FeatherJS, & Java Springboot.
 
 ## My Achievements

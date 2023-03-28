@@ -50,15 +50,15 @@
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
 ## My Stats
-![GitHub Metrics](https://metrics.lecoq.io/Alexersion)
 > 📦 176GB Used in GitHub's Storage 
  >
-> 🏆 214 Contributions in the Year 2023
+> 🏆 21,403 Contributions in the Year 2023
  >
-> 📜 1 Public Repositories
+> 📜 1 Public Repositorie
  >
 > 🔑 92 Private Repositories
  >
+![GitHub Metrics](https://metrics.lecoq.io/Alexersion)
 ![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
 
 ## Languages I'm Learning

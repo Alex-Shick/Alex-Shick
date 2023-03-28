@@ -60,6 +60,36 @@
  >
 ![GitHub Metrics](https://metrics.lecoq.io/Alexersion)   
 ![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
+```text
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+🌆 Daytime                334 commits         ███████████░░░░░░░░░░░░░░   42.33 % 
+🌃 Evening                286 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
+🌙 Night                  150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+```
+```text
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Tuesday                  134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 174 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Saturday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Sunday                   75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+```
+```text
+🕑︎ Time Zone: New York America
+
+💬 Programming Languages: 
+JavaScript               10 hrs 49 mins      █████████████████████░░░░   83.13 % 
+Java/Python              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TXT                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+🔥 Editors: 
+VS Code                  1,300 hrs 5 min     █████████████████████░░░░   81.32 %
+PyCharm Professional     240 hrs 15 min      ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
+IntellJ Idea Ultimate    60 hrs 43 min       ██░░░░░░░░░░░░░░░░░░░░░░    5.00 %
+```
 
 ## Languages I'm Learning
 ![Typescript](https://img.shields.io/badge/-Typescript-409AF9?style=for-the-badge&logo=typescript&logoColor=white)
@@ -71,3 +101,5 @@
 ## My Achievements
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexersion&theme=nord"/></a></p>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+
+Last Updated on 03/28/2023 00:56:27 UTC

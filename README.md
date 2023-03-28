@@ -6,6 +6,7 @@
 <p align="center">Check out my website for more details, projects, stores, and my portfolio!</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alexersion" alt="Alex's GitHub Profile Views"/></p>
+<p align="center"> <img src="http://img.shields.io/badge/Code%20Time-1039%20hrs%2058%13mins-blue" alt="Alex's Code Time"/></p>
 
 ## My Links/Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alexersion.com)

@@ -51,15 +51,7 @@
 ![PyCharm](https://img.shields.io/badge/-Pycharm-409AF9?style=for-the-badge&logo=pycharm-idea&logoColor=white)
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
-## My Stats
-> 📦 176GB Used in GitHub's Storage.
- >
-> 🏆 21,403 Contributions in the Year 2023.
- >
-> 📜 1 Public Repository.
- >
-> 🔑 92 Private Repositories.
- >
+
 ![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
 ```text
 🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 

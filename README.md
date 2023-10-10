@@ -40,7 +40,7 @@
 ![Java](https://img.shields.io/badge/-Java-409AF9?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-409AF9?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-409AF9?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-409AF9?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-409AF9?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-409AF9?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-409AF9?style=for-the-badge&logo=postgresql&logoColor=white)
 

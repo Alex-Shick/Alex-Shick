@@ -29,24 +29,29 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg' alt='imdb' height='40'>](https://www.imdb.com/user/ur150460082/?ref_=nv_usr_prof_2)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yelp.svg' alt='yelp' height='40'>](https://www.yelp.com/user_details?userid=p1YrGE50nCoE73reiqNvMg)
 
-## Languages That I'm Familiar With
+## Technologies That I'm Familiar With
 ![Git](https://img.shields.io/badge/-Git-409AF9?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-409AF9?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-409AF9?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-409AF9?style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/-TypeScript-409AF9?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-409AF9?style=for-the-badge&logo=nodejs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-409AF9?style=for-the-badge&logo=reactjs&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-409AF9?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-409AF9?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-409AF9?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-409AF9?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-409AF9?style=for-the-badge&logo=c++&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-409AF9?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-409AF9?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Tools I Use
 ![GitHub](https://img.shields.io/badge/-GitHub-409AF9?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-409AF9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-409AF9?style=for-the-badge&logo=atom-idea&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-409AF9?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-Webstorm-409AF9?style=for-the-badge&logo=webstorm-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-409AF9?style=for-the-badge&logo=pycharm-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-409AF9?style=for-the-badge&logo=clion-idea&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-409AF9?style=for-the-badge&logo=atom-idea&logoColor=white)
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
 
@@ -83,7 +88,6 @@ IntellJ Idea Ultimate    60 hrs 43 min       ██░░░░░░░░░�
 ```
 
 ## Languages I'm Learning
-![Typescript](https://img.shields.io/badge/-Typescript-409AF9?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-409AF9?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-409AF9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-409AF9?style=for-the-badge&logo=go&logoColor=white)

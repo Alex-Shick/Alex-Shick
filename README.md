@@ -5,7 +5,6 @@
 
 <p align="center">Check out my website for more details, projects, stores, and my portfolio!</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexersion" alt="Alex's GitHub Profile Views"/></p>
 <p align="center"> <img src="http://img.shields.io/badge/Code%20Time-1053%20hrs%2058%20mins-blue" alt="Alex's Code Time"/></p>
 <p align="center"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue" alt="Alex's Total Lines Of Code"/></p>
 

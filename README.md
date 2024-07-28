@@ -8,27 +8,6 @@
 <p align="center"> <img src="http://img.shields.io/badge/Code%20Time-18652%20hrs%2058%20mins-blue" alt="Alex's Code Time"/></p>
 <p align="center"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20million%20lines%20of%20code-blue" alt="Alex's Total Lines Of Code"/></p>
 
-## My Links/Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alexersion.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](business@alexersion.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/fnsdWnWHeT)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alexander.shick/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexersion/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@alexersion1)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://www.tiktok.com/@alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/patreon.svg' alt='patreon' height='40'>](https://patreon.com/alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](https://www.pinterest.com/alexersion/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>](https://www.quora.com/profile/Alexersion)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/sn6prmcgunrb8yixgpg6c3zfr)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/imdb.svg' alt='imdb' height='40'>](https://www.imdb.com/user/ur150460082/?ref_=nv_usr_prof_2)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yelp.svg' alt='yelp' height='40'>](https://www.yelp.com/user_details?userid=p1YrGE50nCoE73reiqNvMg)
-
 ## Technologies That I'm Familiar With
 ![Git](https://img.shields.io/badge/-Git-409AF9?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-409AF9?style=for-the-badge&logo=html5&logoColor=white)

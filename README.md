@@ -57,7 +57,7 @@
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
 
-![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexersion&show_icons=true&theme=cobalt)
+![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-shick&show_icons=true&theme=cobalt)
 ```text
 🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 🌆 Daytime                334 commits         ███████████░░░░░░░░░░░░░░   42.33 % 
@@ -99,6 +99,6 @@ IntellJ Idea Ultimate    60 hrs 43 min       ██░░░░░░░░░�
 ![Python Scikit](https://img.shields.io/badge/-Python_Scikit-409AF9?style=for-the-badge&logo=pythonscikit&logoColor=white)
 
 ## My Achievements
-<p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alexersion&theme=nord"/></a></p>
+<p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alex-shick&theme=nord"/></a></p>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-<br><br>Last Updated on 10/10/2023 00:56:27 UTC
+<br><br>Last Updated on 07/28/2024 00:56:27 UTC

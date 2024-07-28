@@ -1,7 +1,19 @@
 ![GitHub Banner Goes Here.](/banner.png?raw=true)
-<h1 align="center">👋 Hi there, my name is Alex or Alexersion! </h1>
-<h3 align="center"> I'm an aspiring junior developer always open to learning new things. Feel free to contact me at business@alexersion.com.</h3>
-<p align="center">Meet Alex, a driven and self-motivated corporate entrepreneur with over 6 years of experience in management, administration, development, marketing, media, sales, and the arts. With a keen ability to problem-solve and think strategically, Alex has successfully overseen a diverse range of projects. Committed to quality and efficiency, he is known for his professionalism, cost-effectiveness, and ability to lead teams and maximize performance. Respectful and approachable, Alex is always willing to listen and help and welcomes any inquiries or suggestions. Contact Alex today and discover how his skills and experience can benefit your business.</p>
+<h1 align="center">👋 Hi, I'm Alex!</h1>
+<h3 align="center"> I'm a junior full-stack developer desiring to learn. Reach out to business@alexshick.com.</h3>
+<p align="center">I supercharge projects.<br>
+
+With over 7 years of applicable corporate entrepreneurial endeavors, I am driven to make your project and team outcompete any competition and produce results NOW.
+
+Self-taught in management, computer science, marketing, sales, graphics, and character psychology, I maximize quality and efficiency. With a keen ability to problem-solve and deal with conflict resolution, I’ve overseen a diverse portfolio of projects and clients.
+
+Generating over $300k/year in profits I have started and grown businesses working with teams of 30+ individuals worldwide. I’ve powered over 250+ clients consisting of small and medium-sized enterprises.
+
+I’m pursuing my bachelor's and master's in Computer Science for software engineering at the University of Massachusetts Amherst.
+
+Act now by upgrading your true business potential on my website.
+
+https://alexshick.com</p>
 
 <p align="center">Check out my website for more details, projects, stores, and my portfolio!</p>
 

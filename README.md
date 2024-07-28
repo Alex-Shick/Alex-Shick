@@ -1,11 +1,10 @@
 ![GitHub Banner Goes Here.](/banner.png?raw=true)
 <h1 align="center">❗ Are you ready to elevate your business? ❗</h1>
-<h3 align="center"> I'm a junior full-stack developer desiring to learn. Reach out to business@alexshick.com.</h3>
 <p>I supercharge projects.</p>
-<p align="center">With over 7 years of applicable corporate entrepreneurial endeavors, I am driven to make your project and team outcompete any competition and produce results NOW.</p>
-<p align="center">Self-taught in management, computer science, marketing, sales, graphics, and character psychology, I maximize quality and efficiency. With a keen ability to problem-solve and deal with conflict resolution, I’ve overseen a diverse portfolio of projects and clients.</p>
-<p align="center">Generating over $300k/year in profits I have started and grown businesses working with teams of 30+ individuals worldwide. I’ve powered over 250+ clients consisting of small and medium-sized enterprises.</p>
-<p align="center">I’m pursuing my bachelor's and master's in Computer Science for software engineering at the University of Massachusetts Amherst.</p>
+<p>With over 7 years of applicable corporate entrepreneurial endeavors, I am driven to make your project and team outcompete any competition and produce results NOW.</p>
+<p>Self-taught in management, computer science, marketing, sales, graphics, and character psychology, I maximize quality and efficiency. With a keen ability to problem-solve and deal with conflict resolution, I’ve overseen a diverse portfolio of projects and clients.</p>
+<p>Generating over $300k/year in profits I have started and grown businesses working with teams of 30+ individuals worldwide. I’ve powered over 250+ clients consisting of small and medium-sized enterprises.</p>
+<p>I’m pursuing my bachelor's and master's in Computer Science for software engineering at the University of Massachusetts Amherst.</p>
 <p align="center">Act now by upgrading your true business potential on my website.</p>
 <p align="center">https://alexshick.com</p>
 

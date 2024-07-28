@@ -1,7 +1,7 @@
 ![GitHub Banner Goes Here.](/banner.png?raw=true)
 <h1 align="center">👋 Hi, I'm Alex!</h1>
 <h3 align="center"> I'm a junior full-stack developer desiring to learn. Reach out to business@alexshick.com.</h3>
-<p align="center">I supercharge projects.<br>
+I supercharge projects.
 
 With over 7 years of applicable corporate entrepreneurial endeavors, I am driven to make your project and team outcompete any competition and produce results NOW.
 
@@ -11,14 +11,8 @@ Generating over $300k/year in profits I have started and grown businesses workin
 
 I’m pursuing my bachelor's and master's in Computer Science for software engineering at the University of Massachusetts Amherst.
 
-Act now by upgrading your true business potential on my website.
-
-https://alexshick.com</p>
-
-<p align="center">Check out my website for more details, projects, stores, and my portfolio!</p>
-
-<p align="center"> <img src="http://img.shields.io/badge/Code%20Time-18652%20hrs%2058%20mins-blue" alt="Alex's Code Time"/></p>
-<p align="center"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.0%20million%20lines%20of%20code-blue" alt="Alex's Total Lines Of Code"/></p>
+<p align="center">Act now by upgrading your true business potential on my website.</p>
+<p align="center">https://alexshick.com</p>
 
 ## Technologies That I'm Familiar With
 ![Git](https://img.shields.io/badge/-Git-409AF9?style=for-the-badge&logo=git&logoColor=white)

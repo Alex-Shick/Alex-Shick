@@ -8,7 +8,7 @@
 <p align="center">Act now by upgrading your true business potential on my website.</p>
 <p align="center">https://alexshick.com</p>
 
-## Technologies That I'm Familiar With
+## Technologies
 ![Git](https://img.shields.io/badge/-Git-409AF9?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-409AF9?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-409AF9?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,18 +25,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-409AF9?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-409AF9?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Tools I Use
+## Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-409AF9?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-409AF9?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-409AF9?style=for-the-badge&logo=atom-idea&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-409AF9?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-Webstorm-409AF9?style=for-the-badge&logo=webstorm-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-409AF9?style=for-the-badge&logo=pycharm-idea&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-409AF9?style=for-the-badge&logo=clion-idea&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-409AF9?style=for-the-badge&logo=atom-idea&logoColor=white)
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
-
-![Alexersion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-shick&show_icons=true&theme=cobalt)
+![Alex Shick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-shick&show_icons=true&theme=cobalt)
 ```text
 🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 🌆 Daytime                334 commits         ███████████░░░░░░░░░░░░░░   42.33 % 

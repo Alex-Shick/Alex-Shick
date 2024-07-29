@@ -35,6 +35,7 @@
 ![CLion](https://img.shields.io/badge/-CLion-409AF9?style=for-the-badge&logo=clion-idea&logoColor=white)
 ![DreamWeaver](https://img.shields.io/badge/-Dreamweaver-409AF9?style=for-the-badge&logo=dreamweaver-idea&logoColor=white)
 
+## Statistics
 ![Alex Shick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-shick&show_icons=true&theme=cobalt)
 ```text
 🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 

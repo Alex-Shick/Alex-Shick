@@ -67,16 +67,19 @@ PyCharm Professional     240 hrs 15 min      ███░░░░░░░░�
 IntellJ Idea Ultimate    60 hrs 43 min       ██░░░░░░░░░░░░░░░░░░░░░░    5.00 %
 ```
 
-## Technologies That I'm Learning
+## Technologies I'm Learning
 ![NextJS](https://img.shields.io/badge/-NextJS-409AF9?style=for-the-badge&logo=nextjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-409AF9?style=for-the-badge&logo=php&logoColor=white)
 ![Java Springboot](https://img.shields.io/badge/-Java_Springboot-409AF9?style=for-the-badge&logo=javaspringboot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-409AF9?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-409AF9?style=for-the-badge&logo=go&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-409AF9?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Python Scikit](https://img.shields.io/badge/-Python_Scikit-409AF9?style=for-the-badge&logo=pythonscikit&logoColor=white)
 
 ## My Achievements
 <p>&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=alex-shick&theme=nord"/></a></p>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='50' height='50'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
 <br><br>Last Updated on 07/28/2024 00:56:27 UTC

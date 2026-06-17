@@ -5,7 +5,6 @@
 <p>Self-taught in management, computer science, marketing, sales, graphics, and character psychology, I maximize quality and efficiency. With a keen ability to problem-solve and deal with conflict resolution, I’ve overseen a diverse portfolio of projects and clients.</p>
 <p>Generating over $750k/year in profits, I have started and grown businesses working with teams of 30+ individuals worldwide. I’ve powered over 250+ clients, consisting of small and medium-sized enterprises.</p>
 <p>I’m pursuing my bachelor's and master's in Computer Science for software engineering at the University of Massachusetts Amherst.</p>
-<p>🔭 Currently: Founder &amp; CEO @ Vierra Digital · Full-Stack Software Engineer &amp; Data Scientist @ HappyStack · Technology &amp; Marketing Lead @ Iron &amp; Water Co.</p>
 <p align="center">Act now by upgrading your true business potential.</p>
 <p align="center">https://alexshick.com</p>
 <p align="center">
